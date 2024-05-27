@@ -13,7 +13,7 @@
 
 ### - I'm nay a development fan from France. 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="SVG" align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg">
 
 ### - Learning :
 - ✨ Nothing now
