@@ -87,7 +87,7 @@ If you want to contact me about anything, whether it's a doubt or just to hang o
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=NayLeDev&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=NaySurGithub&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
